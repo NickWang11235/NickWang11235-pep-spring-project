@@ -34,7 +34,7 @@ import com.example.utils.Utils;
 @RestController
 public class SocialMediaController {
 
-    AccountRep accountService;
+    AccountService accountService;
     MessageService messageService;
 
     @Autowired
