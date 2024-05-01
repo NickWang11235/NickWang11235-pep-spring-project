@@ -1,5 +1,5 @@
 package com.example.exception;
 
-public class ClientFormatException extends Exception{
-    
+public class ClientFormatException extends Exception {
+
 }
